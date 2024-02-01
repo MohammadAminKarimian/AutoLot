@@ -2,7 +2,7 @@
 This is a project I created to learn ASP.NET, RestApi and EF Core(ORM). It contains 2 web application (MVC, Razor) that allows users to create, read, update, and delete data from a database (CRUD) Using a service component. The application is built using the ASP.NET framework, EF Core and C#. Views are implemented by html, css, javascript but they are very basic and i'm working to improve that so that i can also boost my front skills.
 Project is mainly based on a book project (Pro C# 10 with .NET 6 book Project by Andrew Troelsen and Phil Japikse)
 ![AutoLot General](https://github.com/MohammadAminKarimian/AutoLot/assets/42168296/9a27024e-671c-4af1-b8f7-30513a7092a9)
-## Components
+# Components
 altough project is not that big but it's implemetaion method is a good foundation for a bigger project.
 this section show different parts of project and how they are interconnected toghether.
 ### AutoLot.Models
