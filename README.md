@@ -3,9 +3,8 @@ This is a project I created to learn ASP.NET, RestApi and EF Core(ORM). It conta
 Project is mainly based on a book project (Pro C# 10 with .NET 6 book Project by Andrew Troelsen and Phil Japikse)
 ![AutoLot General](https://github.com/MohammadAminKarimian/AutoLot/assets/42168296/9a27024e-671c-4af1-b8f7-30513a7092a9)
 ## Components
-The AutoLot data access layer consists of two projects, one to hold the EF Core–specific code (the derived
-DbContext, context factory, repositories, migrations, etc.) and another one to hold the entities and view
-models.
+altough project is not that big but it's implemetaion method is a good foundation for a bigger project.
+this section show different parts of project and how they are interconnected toghether.
 ### AutoLot.Models
 hold entities and viewModels which get used in dal or other components.
 ![Models](https://github.com/MohammadAminKarimian/AutoLot/assets/42168296/f43d4e37-c3b4-4376-9a6c-96655739d429)
