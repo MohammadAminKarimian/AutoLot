@@ -1,0 +1,56 @@
+[24-01-30 08:54:40 Warning]AutoLot.Mvc:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-30 08:54:40 Warning]AutoLot.Mvc:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-30 09:15:06 Warning]AutoLot.Mvc:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-30 09:15:06 Warning]AutoLot.Mvc:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-30 09:19:08 Warning]AutoLot.Mvc:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-30 09:19:08 Warning]AutoLot.Mvc:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-30 10:21:01 Warning]AutoLot.Mvc:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-30 10:21:01 Warning]AutoLot.Mvc:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-30 10:23:50 Warning]AutoLot.Mvc:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-30 10:23:50 Warning]AutoLot.Mvc:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-30 11:40:14 Warning]AutoLot.Mvc:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-30 11:40:14 Warning]AutoLot.Mvc:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-30 19:41:24 Warning]AutoLot.Mvc:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-30 19:41:24 Warning]AutoLot.Mvc:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+

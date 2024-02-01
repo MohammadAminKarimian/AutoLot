@@ -1,0 +1,13 @@
+﻿global using AutoLot.Dal.Exceptions;
+global using AutoLot.Dal.Repos.Base;
+global using AutoLot.Dal.Repos.Interfaces;
+global using AutoLot.Models.Entities;
+global using AutoLot.Models.Entities.Configuration;
+global using AutoLot.Models.ViewModels;
+global using AutoLot.Models.ViewModels.Configuration;
+global using AutoLot.Models.ViewModels.Interfaces;
+global using Microsoft.EntityFrameworkCore;
+global using Microsoft.EntityFrameworkCore.Design;
+global using Microsoft.EntityFrameworkCore.Migrations;
+global using Microsoft.EntityFrameworkCore.Storage;
+global using System.Text.Json.Serialization;

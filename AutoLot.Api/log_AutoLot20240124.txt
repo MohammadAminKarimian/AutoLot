@@ -1,0 +1,138 @@
+[24-01-24 10:03:28 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-24 10:03:29 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-24 10:03:41 Error]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:OnResultExecuting: LoggingResponseHeaderFilter.OnResultExecuting
+in method OnResultExecuting at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:13
+
+[24-01-24 10:03:41 Error]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:OnResultExecuted: LoggingResponseHeaderFilter.OnResultExecuting
+in method OnResultExecuted at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:23
+
+[24-01-24 10:12:41 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-24 10:12:41 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-24 10:17:18 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-24 10:17:18 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-24 10:17:36 Warning]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:LogAppWarning: LoggingResponseHeaderFilter.OnResultExecuting
+in method OnResultExecuting at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:15
+
+[24-01-24 10:17:36 Error]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:LogAppError: LoggingResponseHeaderFilter.OnResultExecuting
+in method OnResultExecuting at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:17
+
+[24-01-24 12:10:04 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-24 12:10:04 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-24 12:14:44 Error]AutoLot.Api:Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware
+Message:An unhandled exception has occurred while executing the request.
+in method  at :
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - AutoLot.Api.Controllers.Test.FilterTestController.Get_01 (AutoLot.Api). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerDocumentWithoutFilters(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+[24-01-24 12:15:17 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-24 12:15:17 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-24 12:15:36 Error]AutoLot.Api:Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware
+Message:An unhandled exception has occurred while executing the request.
+in method  at :
+System.InvalidOperationException: A suitable constructor for type 'AutoLot.Api.Filters.LoggingResponseHeaderFilter' could not be located. Ensure the type is concrete and all parameters of a public constructor are either registered as services or passed as arguments. Also ensure no extraneous arguments are provided.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.FindApplicableConstructor(Type instanceType, Type[] argumentTypes, ConstructorInfo& matchingConstructor, Nullable`1[]& matchingParameterMap)
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.CreateFactory(Type instanceType, Type[] argumentTypes)
+   at Microsoft.AspNetCore.Mvc.TypeFilterAttribute.CreateInstance(IServiceProvider serviceProvider)
+   at Microsoft.AspNetCore.Mvc.Filters.DefaultFilterProvider.ProvideFilter(FilterProviderContext context, FilterItem filterItem)
+   at Microsoft.AspNetCore.Mvc.Filters.DefaultFilterProvider.OnProvidersExecuting(FilterProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Filters.FilterFactory.CreateUncachedFiltersCore(IFilterProvider[] filterProviders, ActionContext actionContext, List`1 filterItems)
+   at Microsoft.AspNetCore.Mvc.Filters.FilterFactory.GetAllFilters(IFilterProvider[] filterProviders, ActionContext actionContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvokerCache.GetCachedResult(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Routing.ControllerRequestDelegateFactory.<>c__DisplayClass12_0.<CreateRequestDelegate>b__0(HttpContext context)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.Invoke(HttpContext httpContext)
+--- End of stack trace from previous location ---
+   at Program.<>c.<<<Main>$>b__0_6>d.MoveNext() in E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Program.cs:line 117
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+
+[24-01-24 12:16:18 Warning]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:LogAppWarning: LoggingResponseHeaderFilter.OnResultExecuting
+in method OnResultExecuting at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:15
+
+[24-01-24 12:16:18 Error]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:LogAppError: LoggingResponseHeaderFilter.OnResultExecuting
+in method OnResultExecuting at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:17
+
+[24-01-24 12:16:18 Warning]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:LogAppWarning: LoggingResponseHeaderFilter.OnResultExecuted
+in method OnResultExecuted at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:27
+
+[24-01-24 12:16:18 Error]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:LogAppError: LoggingResponseHeaderFilter.OnResultExecuted
+in method OnResultExecuted at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:29
+
+[24-01-24 12:31:07 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-24 12:31:07 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-24 12:31:32 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-24 12:31:32 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-01-24 12:31:50 Warning]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:LogAppWarning: LoggingResponseHeaderFilter.OnResultExecuting
+in method OnResultExecuting at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:14
+
+[24-01-24 12:31:50 Error]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:LogAppError: LoggingResponseHeaderFilter.OnResultExecuting
+in method OnResultExecuting at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:16
+
+[24-01-24 12:31:50 Warning]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:LogAppWarning: LoggingResponseHeaderFilter.OnResultExecuted
+in method OnResultExecuted at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:26
+
+[24-01-24 12:31:50 Error]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:LogAppError: LoggingResponseHeaderFilter.OnResultExecuted
+in method OnResultExecuted at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:28
+

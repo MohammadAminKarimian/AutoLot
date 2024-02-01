@@ -1,0 +1,28 @@
+[24-02-01 09:50:59 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-02-01 11:09:20 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-02-01 11:18:55 Warning]AutoLot.Api:Microsoft.EntityFrameworkCore.Model.Validation
+Message:The 'bool' property '"IsDrivable"' on entity type '"Car"' is configured with a database-generated default. This default will always be used for inserts when the property has the value 'false', since this is the CLR default for the 'bool' type. Consider using the nullable 'bool?' type instead, so that the default will only be used for inserts when the property value is 'null'.
+in method  at :
+
+[24-02-01 11:19:07 Warning]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:LogAppWarning: LoggingResponseHeaderFilter.OnResultExecuting
+in method OnResultExecuting at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:14
+
+[24-02-01 11:19:07 Error]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:LogAppError: LoggingResponseHeaderFilter.OnResultExecuting
+in method OnResultExecuting at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:16
+
+[24-02-01 11:19:07 Warning]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:LogAppWarning: LoggingResponseHeaderFilter.OnResultExecuted
+in method OnResultExecuted at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:26
+
+[24-02-01 11:19:07 Error]AutoLot.Api:AutoLot.Api.Filters.LoggingResponseHeaderFilter
+Message:LogAppError: LoggingResponseHeaderFilter.OnResultExecuted
+in method OnResultExecuted at E:\Work\C Sharp\Pro Csharp\Part9-Projects\AutoLot\AutoLot.Api\Filters\LoggingResponseHeaderFilter.cs:28
+
