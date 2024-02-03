@@ -16,3 +16,22 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.has-error {
+    border: 3px solid red;
+    padding: 0px 5px;
+    margin: 5px 0;
+}
+
+.amk-block {
+    display: block;
+}
+
+.amk-inline {
+    display: inline;
+}
+
+.amk-form-1 {
+/*    border: 2px solid black;*/
+    max-width: 600px;
+}

@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
   <Class Name="AutoLot.Dal.EfStructures.ApplicationDbContext">
-    <Position X="7.75" Y="1" Width="2.25" />
+    <Position X="8.75" Y="1" Width="2.25" />
     <TypeIdentifier>
       <HashCode>hAMCAAACAIAQAAAAAAASIAAAEAAAACAAAQAABAAAAAA=</HashCode>
       <FileName>EfStructures\ApplicationDbContext.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="AutoLot.Dal.EfStructures.ApplicationDbContextFactory">
-    <Position X="7.75" Y="6" Width="2.25" />
+    <Position X="8.75" Y="6" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>EfStructures\ApplicationDbContextFactory.cs</FileName>
@@ -16,28 +16,28 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="AutoLot.Dal.EfStructures.MigrationHelpers">
-    <Position X="3.5" Y="1" Width="2.25" />
+    <Position X="4.5" Y="1" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAQAQgAAAQAAA=</HashCode>
       <FileName>EfStructures\MigrationHelpers.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="AutoLot.Dal.Initialization.SampleData">
-    <Position X="6" Y="1" Width="1.5" />
+    <Position X="7" Y="1" Width="1.5" />
     <TypeIdentifier>
       <HashCode>BAECAAAAAAAAAAAAAAAAAAAAAAAEACAAAQAAAgAAAAA=</HashCode>
       <FileName>Initialization\SampleData.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="AutoLot.Dal.Initialization.SampleDataInitializer">
-    <Position X="3.5" Y="3.25" Width="2.25" />
+    <Position X="4.5" Y="3.25" Width="2.25" />
     <TypeIdentifier>
       <HashCode>AQAAAAAAQIAAAAAAAAAAAAAAAAAAAAAAAIgAAAAAAAA=</HashCode>
       <FileName>Initialization\SampleDataInitializer.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="AutoLot.Dal.Repos.Base.BaseRepo&lt;T&gt;">
-    <Position X="21.5" Y="1.5" Width="1.5" />
+    <Position X="21" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>gAYAAAAAAAACAAAAAAAAIAACAAEIAAAgAAAAAAIEAAA=</HashCode>
       <FileName>Repos\Base\BaseRepo.cs</FileName>
@@ -45,7 +45,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="AutoLot.Dal.Repos.Base.BaseViewRepo&lt;T&gt;">
-    <Position X="23.75" Y="0.5" Width="1.5" />
+    <Position X="23.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAiAAAAAAAAAARAKAABAAAAAAAgAAAAAAAAA=</HashCode>
       <FileName>Repos\Base\BaseViewRepo.cs</FileName>
@@ -53,7 +53,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="AutoLot.Dal.Repos.Base.TemporalTableBaseRepo&lt;T&gt;">
-    <Position X="20" Y="5.5" Width="2" />
+    <Position X="19.5" Y="5.5" Width="2" />
     <TypeIdentifier>
       <HashCode>AAAAAAABBAAAAAAQAAAAAEABAAAAAAAAACAAAgAAAAA=</HashCode>
       <FileName>Repos\Base\TemporalTableBaseRepo.cs</FileName>
@@ -61,7 +61,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="AutoLot.Dal.Repos.CarDriverRepo" Collapsed="true">
-    <Position X="18" Y="6.5" Width="1.5" />
+    <Position X="17.5" Y="6.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAIAAAAIAAAAAgAAAAEAAAA=</HashCode>
       <FileName>Repos\CarDriverRepo.cs</FileName>
@@ -69,7 +69,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="AutoLot.Dal.Repos.CarRepo" Collapsed="true">
-    <Position X="18" Y="7.5" Width="1.5" />
+    <Position X="17.5" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAIAAAAAAAAAIAAAAIAAAAAgAAAAEAQAA=</HashCode>
       <FileName>Repos\CarRepo.cs</FileName>
@@ -77,7 +77,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="AutoLot.Dal.Repos.CreditRiskRepo" Collapsed="true">
-    <Position X="19.5" Y="1.5" Width="1.5" />
+    <Position X="19" Y="1.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Repos\CreditRiskRepo.cs</FileName>
@@ -85,7 +85,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="AutoLot.Dal.Repos.CustomerOrderViewModelRepo" Collapsed="true">
-    <Position X="23.75" Y="4.25" Width="2.5" />
+    <Position X="23.25" Y="4.25" Width="2.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Repos\CustomerOrderViewModelRepo.cs</FileName>
@@ -93,7 +93,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="AutoLot.Dal.Repos.CustomerRepo" Collapsed="true">
-    <Position X="19.5" Y="2.5" Width="1.5" />
+    <Position X="19" Y="2.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAA=</HashCode>
       <FileName>Repos\CustomerRepo.cs</FileName>
@@ -101,7 +101,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="AutoLot.Dal.Repos.DriverRepo" Collapsed="true">
-    <Position X="19.5" Y="3.5" Width="1.5" />
+    <Position X="19" Y="3.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAABAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA=</HashCode>
       <FileName>Repos\DriverRepo.cs</FileName>
@@ -109,7 +109,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="AutoLot.Dal.Repos.MakeRepo" Collapsed="true">
-    <Position X="18" Y="8.5" Width="1.5" />
+    <Position X="17.5" Y="8.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAABAAAAAAAAAAAAIAAAAAAAAAAgAAAAAAAAA=</HashCode>
       <FileName>Repos\MakeRepo.cs</FileName>
@@ -117,7 +117,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="AutoLot.Dal.Repos.OrderRepo" Collapsed="true">
-    <Position X="18" Y="5.5" Width="1.5" />
+    <Position X="17.5" Y="5.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Repos\OrderRepo.cs</FileName>
@@ -125,7 +125,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="AutoLot.Dal.Repos.RadioRepo" Collapsed="true">
-    <Position X="18" Y="9.5" Width="1.5" />
+    <Position X="17.5" Y="9.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Repos\RadioRepo.cs</FileName>
@@ -133,28 +133,28 @@
     <Lollipop Position="0.2" />
   </Class>
   <Class Name="AutoLot.Dal.Exceptions.CustomConcurrencyException" Collapsed="true">
-    <Position X="6.75" Y="8.75" Width="1.5" />
+    <Position X="7.75" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Exceptions\CustomConcurrencyException.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="AutoLot.Dal.Exceptions.CustomDbUpdateException" Collapsed="true">
-    <Position X="5" Y="8.75" Width="1.5" />
+    <Position X="6" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Exceptions\CustomDbUpdateException.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="AutoLot.Dal.Exceptions.CustomException" Collapsed="true">
-    <Position X="5" Y="7.5" Width="1.5" />
+    <Position X="6" Y="7.5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Exceptions\CustomException.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="AutoLot.Dal.Exceptions.CustomRetryLimitExceededException" Collapsed="true">
-    <Position X="3.25" Y="8.75" Width="1.5" />
+    <Position X="4.25" Y="8.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Exceptions\CustomRetryLimitExceededException.cs</FileName>

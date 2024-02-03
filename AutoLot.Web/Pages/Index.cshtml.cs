@@ -13,7 +13,7 @@ namespace AutoLot.Web.Pages
             _logger = logger;
         }
 
-        public void OnGet([FromServices] OptionsMonitor<DealerInfo> dealerMonitor)
+        public void OnGet([FromServices] IOptionsMonitor<DealerInfo> dealerMonitor)
         {
             DealerInfoInstance = dealerMonitor.CurrentValue;
         }
